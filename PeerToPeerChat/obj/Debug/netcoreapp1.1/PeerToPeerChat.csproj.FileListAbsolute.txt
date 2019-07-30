@@ -1,0 +1,10 @@
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\bin\Debug\netcoreapp1.1\PeerToPeerChat.deps.json
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\bin\Debug\netcoreapp1.1\PeerToPeerChat.runtimeconfig.json
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\bin\Debug\netcoreapp1.1\PeerToPeerChat.runtimeconfig.dev.json
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\bin\Debug\netcoreapp1.1\PeerToPeerChat.dll
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\bin\Debug\netcoreapp1.1\PeerToPeerChat.pdb
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\obj\Debug\netcoreapp1.1\PeerToPeerChat.csprojResolveAssemblyReference.cache
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\obj\Debug\netcoreapp1.1\PeerToPeerChat.csproj.CoreCompileInputs.cache
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\obj\Debug\netcoreapp1.1\PeerToPeerChat.AssemblyInfo.cs
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\obj\Debug\netcoreapp1.1\PeerToPeerChat.dll
+c:\users\rjaiswal\source\repos\PeerToPeerChat\PeerToPeerChat\obj\Debug\netcoreapp1.1\PeerToPeerChat.pdb
